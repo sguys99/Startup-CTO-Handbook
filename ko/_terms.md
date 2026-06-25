@@ -42,6 +42,59 @@
 | customer crew | 고객 크루(customer crew) | 저자 고유 용어 |
 | tech debt bankruptcy | 기술 부채 파산 | 저자 고유 용어 |
 | debt inventory | 부채 인벤토리 | |
+| management | 관리 | 문맥상 '경영'도 허용 |
+| manager | 관리자 | |
+| hiring | 채용 | |
+| interview / interviewing | 면접 | |
+| candidate | 후보자 | |
+| headcount | 인원 계획(headcount) | 첫 등장 병기 |
+| performance | 성과 | performance review → 성과 리뷰 |
+| 1:1 (one-on-one) | 1:1 | 원문 표기 유지 |
+| best practice | 모범 사례 | |
+| DevOps | DevOps | 원문 표기 유지 |
+| compliance | 컴플라이언스 | |
+| production | 프로덕션 | 운영 환경 맥락 |
+| escalation | 에스컬레이션 | production escalation → 장애 대응 |
+| root cause analysis (RCA) | 근본 원인 분석(RCA) | |
+
+## 장·절 제목 대응표 (확정)
+
+`index.md`·`SUMMARY.md`와 일치시킨다. 절 파일 frontmatter의 `title`/`title_en`도 이 표를 따른다.
+
+| English | 한국어 |
+|---|---|
+| The Startup CTO's Handbook | 스타트업 CTO 핸드북 |
+| Introduction | 서론 |
+| The Author | 저자에 대하여 |
+| Using this Book | 이 책을 활용하는 법 |
+| Business Processes | 비즈니스 프로세스 |
+| People & Culture | 사람과 문화 |
+| Management Fundamentals | 관리의 기본기 |
+| Hiring and Interviewing | 채용과 면접 |
+| Onboarding | 온보딩 |
+| Performance Management | 성과 관리 |
+| Team Makeup | 팀 구성 |
+| Leadership Responsibilities | 리더의 책임 |
+| Which Type of Startup CTO Are You? | 당신은 어떤 유형의 스타트업 CTO인가? |
+| Technical Team Management | 기술 팀 관리 |
+| Tech Culture and General Philosophy | 기술 문화와 전반적 철학 |
+| Tech Debt | 기술 부채 |
+| Technology Roadmap | 기술 로드맵 |
+| Tech Process | 기술 프로세스 |
+| Developer Experience (DX) | 개발자 경험(DX) |
+| Tech Architecture | 기술 아키텍처 |
+| Architecture | 아키텍처 |
+| Data and Analytics | 데이터와 분석 |
+| Tools | 도구 |
+| DevOps | DevOps |
+| Testing | 테스트 |
+| Source Control | 소스 관리 |
+| Production Escalations | 장애 대응 |
+| IT | IT |
+| Security and Compliance | 보안과 컴플라이언스 |
+| Conclusion: Measuring Success | 맺음말: 성공을 측정하기 |
+| Book References | 참고문헌 |
+| Glossary | 용어집 |
 
 ## 고유명사 / 제품·회사명
 
@@ -50,6 +103,7 @@
 | Golden Gate Bridge | 금문교(Golden Gate Bridge) |
 | Google | 구글(Google) |
 | Zach Goldberg | 잭 골드버그(Zach Goldberg) |
+| WorldChangers Media | WorldChangers Media |
 
 ## 상호 참조(page 표기) 처리
 

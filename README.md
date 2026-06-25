@@ -2,6 +2,8 @@
   <img width="200" src="published_files/cover.png">
 </p>
 
+<p align="center"><a href="README.ko.md">한국어</a> · <strong>English</strong></p>
+
 # The Book
 You can view the latest content of the book in markdown [here](StartupCTOHandbook.md)
 

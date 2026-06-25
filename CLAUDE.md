@@ -14,18 +14,26 @@
 ├── StartupCTOHandbook.md   # 원문 (영문 전체, 단일 출처 — 수정 금지)
 ├── README.md               # 프로젝트 소개
 ├── LICENSE                 # 라이선스
-├── ko/                     # 한국어 번역 (챕터별 분할) — 작업 산출물
-│   ├── 00-introduction.md
-│   ├── 01-business-processes.md
-│   ├── 02-people-and-culture.md
-│   ├── 03-technical-team-management.md
-│   ├── 04-tech-architecture.md
-│   ├── 05-conclusion.md
-│   ├── 06-references.md
-│   ├── 07-glossary.md
-│   └── 08-about.md
+├── ko/                     # 한국어 번역 (절 단위 분할) — 작업 산출물
+│   ├── index.md            # 표지 + 전체 목차 (front matter)
+│   ├── SUMMARY.md          # 네비게이션 매니페스트 (order 기준)
+│   ├── _terms.md           # 번역 용어집/스타일시트 (translation memory)
+│   ├── 01-introduction/    # index.md, the-author.md, using-this-book.md
+│   ├── 02-business-processes.md
+│   ├── 03-people-and-culture/        # 01-management-fundamentals.md … 07-cto-types.md
+│   ├── 04-technical-team-management/ # 01-tech-culture.md … 05-developer-experience.md
+│   ├── 05-tech-architecture/         # 01-architecture.md … 09-security-and-compliance.md
+│   ├── 06-conclusion.md
+│   ├── 07-references.md
+│   ├── 08-glossary.md
+│   └── 09-about.md
 └── published_files/        # 원본 출판 산출물 (PDF/DOCX/표지) — 참고용
 ```
+
+> 큰 챕터(People & Culture 등)는 챕터 폴더 + 절(H2)별 파일로 잘게 나눕니다.
+> 각 절 파일은 단일 H1(원문 `##`→`#`로 한 단계 승급) + YAML frontmatter
+> (`title·title_en·chapter·order·source_lines·status`)를 둡니다.
+> 산출 컨벤션은 파일럿(`ko/04-technical-team-management/02-tech-debt.md`)에서 확정됐습니다.
 
 ## 원문 챕터 구조
 
@@ -42,12 +50,13 @@
 6. **Conclusion: Measuring Success**
 7. **Book References** / **Glossary** / **About**
 
-각 장은 위 표의 `ko/NN-*.md` 파일에 1:1로 대응시켜 번역합니다.
+각 절은 위 구조의 `ko/.../*.md` 파일에 1:1로 대응시켜 번역합니다.
 
 ## 번역 워크플로우
 
-1. **번역 단위**: 한 번에 한 챕터(또는 큰 챕터는 절 단위)씩 진행합니다.
-   원문에서 해당 구간을 읽고 대응하는 `ko/NN-*.md`에 작성합니다.
+1. **번역 단위**: 절(H2) 단위로 진행하되, 챕터 단위로 끊어 중간 공유합니다.
+   원문에서 해당 구간을 읽고 대응하는 절 파일에 작성합니다(frontmatter `status: draft`).
+   윤문·감사 완료 시 `status: humanized` → 사용자 리뷰 후 `reviewed`로 갱신합니다.
 2. **1차 번역**: 의미를 정확히 보존하며 한국어로 옮깁니다.
 3. **윤문**: `/humanize-korean` 스킬로 AI 번역투·피동 남용·기계적 병렬·어색한
    리듬을 다듬어 자연스러운 문체로 만듭니다. **내용·사실·수치·인용은 바꾸지 않습니다.**

@@ -1,0 +1,14 @@
+# Humanize 파이프라인 작업 폴더 (중간 산출물, 추적 제외)
+_workspace/
+
+# OS / 편집기
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# 로그 / 임시
+*.log
+*.tmp

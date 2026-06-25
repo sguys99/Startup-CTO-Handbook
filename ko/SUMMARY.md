@@ -13,7 +13,7 @@
 | 100 | [01-introduction/index.md](01-introduction/index.md) | 서론 / Introduction | 122–163 | humanized |
 | 101 | [01-introduction/the-author.md](01-introduction/the-author.md) | 저자에 대하여 / The Author | 164–179 | humanized |
 | 102 | [01-introduction/using-this-book.md](01-introduction/using-this-book.md) | 이 책을 활용하는 법 / Using this Book | 180–207 | humanized |
-| 200 | [02-business-processes.md](02-business-processes.md) | 비즈니스 프로세스 / Business Processes | 208–214 | 미착수 |
+| 200 | [02-business-processes.md](02-business-processes.md) | 비즈니스 프로세스 / Business Processes | 208–212 | humanized |
 | 301 | [03-people-and-culture/01-management-fundamentals.md](03-people-and-culture/01-management-fundamentals.md) | 관리의 기본기 / Management Fundamentals | 217–743 | 미착수 |
 | 302 | [03-people-and-culture/02-hiring-and-interviewing.md](03-people-and-culture/02-hiring-and-interviewing.md) | 채용과 면접 / Hiring and Interviewing | 744–1237 | 미착수 |
 | 303 | [03-people-and-culture/03-onboarding.md](03-people-and-culture/03-onboarding.md) | 온보딩 / Onboarding | 1238–1369 | 미착수 |

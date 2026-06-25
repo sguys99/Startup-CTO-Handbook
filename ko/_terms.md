@@ -104,6 +104,25 @@
 | Google | 구글(Google) |
 | Zach Goldberg | 잭 골드버그(Zach Goldberg) |
 | WorldChangers Media | WorldChangers Media |
+| University of Pennsylvania (Penn) | 펜실베이니아 대학교(University of Pennsylvania), 약칭 펜 |
+| Max Mintz | 맥스 민츠(Max Mintz) |
+| Tuscany Cafe | 투스카니 카페(Tuscany Cafe) |
+| Einstein | 아인슈타인 |
+| Steve Wozniak | 스티브 워즈니악(Steve Wozniak) |
+| Apple | 애플(Apple) |
+| Eduware | 에듀웨어(Eduware) |
+| Invite Media | 인바이트 미디어(Invite Media) |
+| WiFast / Adentro | 와이패스트(WiFast) / 아덴트로(Adentro) |
+| SoChat | 소챗(SoChat) |
+| AutoLotto | 오토로또(AutoLotto) |
+| Trellis Technologies | 트렐리스 테크놀로지스(Trellis Technologies) |
+| GrowFlow | 그로우플로(GrowFlow) |
+| Equi | 에퀴(Equi) |
+| Tencent | 텐센트(Tencent) |
+| Lottery.com | 로터리닷컴(Lottery.com) |
+| Dama Financial | 다마 파이낸셜(Dama Financial) |
+| product market fit | 제품-시장 적합성(product market fit) |
+| individual contributor | 개별 기여자(individual contributor) |
 
 ## 상호 참조(page 표기) 처리
 

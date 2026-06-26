@@ -248,6 +248,37 @@
 | Continuous Integration (CI) | 지속적 통합(Continuous Integration) | 첫 등장 병기 |
 | context switch / switching | 컨텍스트 스위칭 | 첫 등장 병기 |
 | GitLab / GitHub / Bitbucket | GitLab / GitHub / Bitbucket | Git 호스팅, 원문 표기 유지 |
+| Four Key Metrics (DORA) | 네 가지 핵심 지표(Four Key Metrics) / DORA | DevOps 맥락, 첫 등장 병기 |
+| Lead Time | 리드 타임(Lead Time) | DORA 지표 |
+| Deployment Frequency | 배포 빈도(Deployment Frequency) | DORA 지표 |
+| Change Fail Percentage | 변경 실패율(Change Fail Percentage) | DORA 지표 |
+| reproducibility | 재현성(reproducibility) | 첫 등장 병기 |
+| containerization / container | 컨테이너화(containerization) / 컨테이너 | 첫 등장 병기 |
+| Docker / Dockerfile | 도커(Docker) / Dockerfile | 첫 등장 병기, Dockerfile은 원문 유지 |
+| container image | 컨테이너 이미지 | |
+| image registry | 이미지 레지스트리 | hosted registry → 호스팅형 레지스트리 |
+| layer (Docker) | 레이어(layer) | Docker 이미지 맥락 |
+| multi-stage build | 멀티스테이지 빌드(multi-stage build) | 첫 등장 병기 |
+| container orchestration | 컨테이너 오케스트레이션 | |
+| Kubernetes (K8s) | 쿠버네티스(Kubernetes) / K8s | 첫 등장 병기 |
+| ClickOps | 클릭옵스(ClickOps) | 첫 등장 병기 |
+| Infrastructure as Code (IaC) | 코드형 인프라(Infrastructure as Code, IaC) | 첫 등장 병기 |
+| Terraform / HCL | Terraform / HCL(HashiCorp Config Language) | 원문 표기 유지, HCL 첫 등장 풀이 |
+| secret / secret store | 비밀(secret) / 비밀 저장소 | secret management → 비밀 관리 |
+| entrypoint script | 엔트리포인트 스크립트 | |
+| feature branch environment | 기능 브랜치 환경 | |
+| integration environment | 인티그레이션 환경 | feature branch 맥락, 항상 떠 있는 통합 환경 |
+| seed script | 시드 스크립트 | |
+| DNS / zone record | DNS / 존(zone) 레코드 | domain name system |
+| SPF / DKIM / DMARC | SPF(Sender Policy Framework) / DKIM / DMARC | 이메일 인증, 첫 등장 풀이 |
+| feature toggle | 기능 토글(feature toggle) | [[feature toggle / flag]]와 동일 계열 |
+| out-of-band process | 별도의(out-of-band) 프로세스 | |
+| application performance monitoring (APM) | 애플리케이션 성능 모니터링(APM) | 첫 등장 병기 |
+| real user monitoring (RUM) | 실사용자 모니터링(RUM) | 첫 등장 병기 |
+| New Relic / Datadog / Akamai mPulse | New Relic / Datadog / Akamai mPulse | 모니터링 도구, 원문 표기 유지 |
+| LinearB / Code Climate | LinearB / Code Climate | DORA 지표 추적 도구, 원문 표기 유지 |
+| Heroku / Google App Engine / Elastic Beanstalk / Google Cloud Run | 원문 표기 유지 | 호스팅형 컨테이너 플랫폼 |
+| Thoughtworks Technology Radar | 소트웍스 테크놀로지 레이더(Thoughtworks Technology Radar) | 첫 등장 병기 |
 
 ## 장·절 제목 대응표 (확정)
 

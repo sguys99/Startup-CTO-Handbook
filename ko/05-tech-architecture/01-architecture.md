@@ -1,3 +1,11 @@
+---
+title: "아키텍처"
+title_en: "Architecture"
+chapter: "Tech Architecture"
+order: 501
+source_lines: "2415-2691"
+status: humanized
+---
 
 # 아키텍처
 

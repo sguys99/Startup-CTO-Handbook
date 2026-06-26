@@ -14,13 +14,13 @@
 | 101 | [01-introduction/the-author.md](01-introduction/the-author.md) | 저자에 대하여 / The Author | 164–179 | humanized |
 | 102 | [01-introduction/using-this-book.md](01-introduction/using-this-book.md) | 이 책을 활용하는 법 / Using this Book | 180–207 | humanized |
 | 200 | [02-business-processes.md](02-business-processes.md) | 비즈니스 프로세스 / Business Processes | 208–212 | humanized |
-| 301 | [03-people-and-culture/01-management-fundamentals.md](03-people-and-culture/01-management-fundamentals.md) | 관리의 기본기 / Management Fundamentals | 217–743 | 미착수 |
-| 302 | [03-people-and-culture/02-hiring-and-interviewing.md](03-people-and-culture/02-hiring-and-interviewing.md) | 채용과 면접 / Hiring and Interviewing | 744–1237 | 미착수 |
-| 303 | [03-people-and-culture/03-onboarding.md](03-people-and-culture/03-onboarding.md) | 온보딩 / Onboarding | 1238–1369 | 미착수 |
-| 304 | [03-people-and-culture/04-performance-management.md](03-people-and-culture/04-performance-management.md) | 성과 관리 / Performance Management | 1370–1571 | 미착수 |
-| 305 | [03-people-and-culture/05-team-makeup.md](03-people-and-culture/05-team-makeup.md) | 팀 구성 / Team Makeup | 1572–1695 | 미착수 |
+| 301 | [03-people-and-culture/01-management-fundamentals.md](03-people-and-culture/01-management-fundamentals.md) | 관리의 기본기 / Management Fundamentals | 217–742 | humanized |
+| 302 | [03-people-and-culture/02-hiring-and-interviewing.md](03-people-and-culture/02-hiring-and-interviewing.md) | 채용과 면접 / Hiring and Interviewing | 744–1237 | humanized |
+| 303 | [03-people-and-culture/03-onboarding.md](03-people-and-culture/03-onboarding.md) | 온보딩 / Onboarding | 1238–1369 | humanized |
+| 304 | [03-people-and-culture/04-performance-management.md](03-people-and-culture/04-performance-management.md) | 성과 관리 / Performance Management | 1370–1571 | humanized |
+| 305 | [03-people-and-culture/05-team-makeup.md](03-people-and-culture/05-team-makeup.md) | 팀 구성 / Team Makeup | 1572–1695 | humanized |
 | 306 | [03-people-and-culture/06-leadership-responsibilities.md](03-people-and-culture/06-leadership-responsibilities.md) | 리더의 책임 / Leadership Responsibilities | 1696–1855 | 미착수 |
-| 307 | [03-people-and-culture/07-cto-types.md](03-people-and-culture/07-cto-types.md) | 당신은 어떤 유형의 스타트업 CTO인가? / Which Type of Startup CTO Are You? | 1856–1917 | 미착수 |
+| 307 | [03-people-and-culture/07-cto-types.md](03-people-and-culture/07-cto-types.md) | 당신은 어떤 유형의 스타트업 CTO인가? / Which Type of Startup CTO Are You? | 1856–1917 | humanized |
 | 401 | [04-technical-team-management/01-tech-culture.md](04-technical-team-management/01-tech-culture.md) | 기술 문화와 전반적 철학 / Tech Culture and General Philosophy | 1924–2017 | 미착수 |
 | 402 | [04-technical-team-management/02-tech-debt.md](04-technical-team-management/02-tech-debt.md) | 기술 부채 / Tech Debt | 2018–2110 | humanized |
 | 403 | [04-technical-team-management/03-technology-roadmap.md](04-technical-team-management/03-technology-roadmap.md) | 기술 로드맵 / Technology Roadmap | 2111–2161 | 미착수 |

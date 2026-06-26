@@ -18,6 +18,9 @@
 | tech debt / technical debt | 기술 부채 | |
 | onboarding | 온보딩 | |
 | roadmap | 로드맵 | |
+| horizon one/two/three | 호라이즌 1/2/3 | 단기·중기·장기 로드맵, 기술 로드맵 맥락 |
+| serverless | 서버리스 | |
+| deprecated | 더 이상 지원되지 않는(deprecated) | 첫 등장 병기 |
 | startup | 스타트업 | |
 | CTO | CTO | 원문 표기 유지 |
 | engineering | 엔지니어링 | 문맥상 '개발'도 허용 |
@@ -82,6 +85,11 @@
 | lateral move | 수평 이동 | |
 | living document | 살아 있는 문서 | |
 | Request for Comments (RFC) | RFC(Request for Comments) | 첫 등장 병기 |
+| servant leadership | 서번트 리더십(servant leadership) | 첫 등장 병기 |
+| Continuous Deployment | 지속적 배포(Continuous Deployment) | 첫 등장 병기 |
+| Rubber Duck Debugging | 러버덕 디버깅(Rubber Duck Debugging) | 첫 등장 병기 |
+| monorepo / manyrepo | 모노레포(monorepo) / 멀티레포(manyrepo) | 첫 등장 병기 |
+| tribal knowledge | 부족 지식(tribal knowledge) | 첫 등장 병기, [[knowledge silo]] 계열 |
 | mis-hire | 잘못된 채용 | |
 | ceremony (Agile) | 의식(ceremony) | 애자일 맥락, 첫 등장 병기 |
 | developer evangelist | 디벨로퍼 에반젤리스트 | |
@@ -156,6 +164,60 @@
 | remote team | 원격 팀 | |
 | asynchronous work | 비동기 작업 | [[asynchronous communication]]와 동일 계열 |
 | time zone overlap | 시간대 겹침 | |
+| workflow | 워크플로 | Tech Process 맥락 |
+| Conway's Law | 콘웨이의 법칙(Conway's Law) | 첫 등장 병기 |
+| Agile / SCRUM / Kanban / Waterfall | 애자일(Agile) / 스크럼(SCRUM) / 칸반(Kanban) / 워터폴(Waterfall) | 워크플로 패턴명 |
+| planning poker | 플래닝 포커(planning poker) | 스크럼 의식, 첫 등장 병기 |
+| story points / story pointing | 스토리 포인트 / 스토리 포인팅 | |
+| accuracy / precision | 정확도 / 정밀도 | 엔지니어링 추정 맥락 |
+| engineering estimate | 엔지니어링 추정 | estimate → 추정 |
+| burndown chart | 번다운 차트(burndown chart) | 첫 등장 병기 |
+| tech spec / technical specification | 기술 명세(tech spec) | 첫 등장 병기 |
+| feature toggle / flag | 기능 토글 / 플래그 | |
+| disaster recovery | 재해 복구 | |
+| OKR / KPI | OKR / KPI | 원문 표기 유지 |
+| pitch (Shape Up) | 피치(pitch, 명세) | Shape Up 맥락 |
+| domain-driven design (DDD) | 도메인 주도 설계(domain-driven design, DDD) | 첫 등장 병기 |
+| domain model | 도메인 모델(domain model) | DDD 핵심 개념 |
+| ubiquitous language | 유비쿼터스 언어(ubiquitous language) | DDD 핵심 개념 |
+| bounded context | 경계 컨텍스트(bounded context) | DDD 핵심 개념 |
+| monolith / monolithic architecture | 모놀리스 / 모놀리식 아키텍처 | |
+| service-oriented architecture (SOA) | 서비스 지향 아키텍처(SOA) | |
+| microservice | 마이크로서비스 | |
+| monorepo / manyrepo | 모노레포 / 매니레포 | 첫 등장 병기 |
+| distributed monolith | 분산 모놀리스 | 두 세계의 단점 |
+| data contract / contract | 데이터 계약 / 계약 | API contract → API 계약 |
+| RPC (Remote Procedure Call) | RPC(원격 프로시저 호출, Remote Procedure Call) | 첫 등장 병기 |
+| not invented here syndrome (NIH) | NIH 증후군(not invented here syndrome) | 첫 등장 병기 |
+| object-oriented programming (OOP) | 객체지향 프로그래밍(OOP) | |
+| pure / purity | 순수한 / 순수성 | pure code → 순수한 코드 |
+| functional programming | 함수형 프로그래밍 | |
+| test-driven development (TDD) | 테스트 주도 개발(TDD) | BDD/ATDD 동계열 |
+| extreme programming | 익스트림 프로그래밍 | Kent Beck |
+| static type system | 정적 타입 시스템(static type system) | 첫 등장 병기 |
+| static code analysis | 정적 코드 분석 | |
+| idempotency / idempotent | 멱등성 / 멱등한 | idempotency key → 멱등성 키 |
+| publisher-subscriber (pub/sub) | 발행-구독(pub/sub) | publisher → 발행자, subscriber → 구독자 |
+| queueing system | 큐잉 시스템 | FIFO/LIFO, at least/most once |
+| job / cron job | 잡 / 크론 잡 | 잡 시스템 |
+| federated schema | 페더레이티드 스키마(federated schema) | GraphQL, 첫 등장 병기 |
+| query / mutation | 쿼리(query) / 뮤테이션(mutation) | GraphQL |
+| secret management | 비밀 관리(secret management) | 첫 등장 병기 |
+| golden rule of programming | 프로그래밍의 황금률 | 저자 표현 |
+| transactional data | 트랜잭션 데이터 | 데이터와 분석 맥락 |
+| business intelligence (BI) | 비즈니스 인텔리전스(BI) | 첫 등장 병기 |
+| behavioral data / behavioral analytics events | 행동 데이터 | behavioral analytics events 원어 병기 |
+| big data | 빅데이터 | |
+| data pipeline | 데이터 파이프라인 | |
+| data warehouse / warehousing | 데이터 웨어하우스 / 데이터 웨어하우징 | |
+| data lake | 데이터 레이크 | |
+| ETL / ELT | ETL / ELT | 첫 등장 시 Extract, Transform, Load 등 풀이 병기 |
+| Customer Data Platform (CDP) | 고객 데이터 플랫폼(CDP) | 첫 등장 병기 |
+| domain-driven design | 도메인 주도 설계 | |
+| read-only replica | 읽기 전용 복제본 | |
+| load shedding | 부하 경감(load shedding) | load balancing(부하 분산)과 구별, 첫 등장 병기 |
+| point-in-time restore | 특정 시점 복구 | |
+| serverless warehouse | 서버리스 웨어하우스 | | |
 
 ## 장·절 제목 대응표 (확정)
 
@@ -256,6 +318,14 @@
 | Otto von Bismarck | 오토 폰 비스마르크(Otto von Bismarck) |
 | Dwight Eisenhower | 드와이트 아이젠하워(Dwight Eisenhower) |
 | Slack / Microsoft Teams / Meta Workspace | Slack / Microsoft Teams / Meta의 Workspace | 동기식 채팅 플랫폼, 원문 표기 유지 |
+| Martin Fowler | 마틴 파울러(Martin Fowler) | *Patterns of Enterprise Application Architecture* |
+| Kent Beck | 켄트 벡(Kent Beck) | *Extreme Programming Explained* |
+| Eric Evans | 에릭 에반스(Eric Evans) | *Domain-Driven Design*(2003) |
+| Apollo | 아폴로(Apollo) | GraphQL 그래프 솔루션 회사 |
+| Martin Fowler | 마틴 파울러(Martin Fowler) |
+| Richard Rumelt | 리처드 루멜트(Richard Rumelt) |
+| *Good Strategy/Bad Strategy* | *Good Strategy/Bad Strategy* | 영문 원제 유지, Richard Rumelt 저서 |
+| Loom | 룸(Loom) | 영상 메시지 도구 |
 
 ## 상호 참조(page 표기) 처리
 

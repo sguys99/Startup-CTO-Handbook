@@ -21,13 +21,13 @@
 | 305 | [03-people-and-culture/05-team-makeup.md](03-people-and-culture/05-team-makeup.md) | 팀 구성 / Team Makeup | 1572–1695 | humanized |
 | 306 | [03-people-and-culture/06-leadership-responsibilities.md](03-people-and-culture/06-leadership-responsibilities.md) | 리더의 책임 / Leadership Responsibilities | 1696–1855 | 미착수 |
 | 307 | [03-people-and-culture/07-cto-types.md](03-people-and-culture/07-cto-types.md) | 당신은 어떤 유형의 스타트업 CTO인가? / Which Type of Startup CTO Are You? | 1856–1917 | humanized |
-| 401 | [04-technical-team-management/01-tech-culture.md](04-technical-team-management/01-tech-culture.md) | 기술 문화와 전반적 철학 / Tech Culture and General Philosophy | 1924–2017 | 미착수 |
+| 401 | [04-technical-team-management/01-tech-culture.md](04-technical-team-management/01-tech-culture.md) | 기술 문화와 전반적 철학 / Tech Culture and General Philosophy | 1924–2017 | humanized |
 | 402 | [04-technical-team-management/02-tech-debt.md](04-technical-team-management/02-tech-debt.md) | 기술 부채 / Tech Debt | 2018–2110 | humanized |
-| 403 | [04-technical-team-management/03-technology-roadmap.md](04-technical-team-management/03-technology-roadmap.md) | 기술 로드맵 / Technology Roadmap | 2111–2161 | 미착수 |
-| 404 | [04-technical-team-management/04-tech-process.md](04-technical-team-management/04-tech-process.md) | 기술 프로세스 / Tech Process | 2162–2347 | 미착수 |
-| 405 | [04-technical-team-management/05-developer-experience.md](04-technical-team-management/05-developer-experience.md) | 개발자 경험(DX) / Developer Experience (DX) | 2348–2405 | 미착수 |
-| 501 | [05-tech-architecture/01-architecture.md](05-tech-architecture/01-architecture.md) | 아키텍처 / Architecture | 2415–2691 | 미착수 |
-| 502 | [05-tech-architecture/02-data-and-analytics.md](05-tech-architecture/02-data-and-analytics.md) | 데이터와 분석 / Data and Analytics | 2692–2766 | 미착수 |
+| 403 | [04-technical-team-management/03-technology-roadmap.md](04-technical-team-management/03-technology-roadmap.md) | 기술 로드맵 / Technology Roadmap | 2111–2161 | humanized |
+| 404 | [04-technical-team-management/04-tech-process.md](04-technical-team-management/04-tech-process.md) | 기술 프로세스 / Tech Process | 2162–2347 | humanized |
+| 405 | [04-technical-team-management/05-developer-experience.md](04-technical-team-management/05-developer-experience.md) | 개발자 경험(DX) / Developer Experience (DX) | 2348–2404 | humanized |
+| 501 | [05-tech-architecture/01-architecture.md](05-tech-architecture/01-architecture.md) | 아키텍처 / Architecture | 2415–2691 | humanized |
+| 502 | [05-tech-architecture/02-data-and-analytics.md](05-tech-architecture/02-data-and-analytics.md) | 데이터와 분석 / Data and Analytics | 2692–2766 | humanized |
 | 503 | [05-tech-architecture/03-tools.md](05-tech-architecture/03-tools.md) | 도구 / Tools | 2767–2816 | 미착수 |
 | 504 | [05-tech-architecture/04-devops.md](05-tech-architecture/04-devops.md) | DevOps | 2817–2988 | 미착수 |
 | 505 | [05-tech-architecture/05-testing.md](05-tech-architecture/05-testing.md) | 테스트 / Testing | 2989–3122 | 미착수 |

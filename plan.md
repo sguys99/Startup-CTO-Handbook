@@ -12,9 +12,9 @@ Zach Goldberg의 *The Startup CTO's Handbook* 영문 전문을 자연스러운 �
 |---|---|
 | 전체 절(H2) | 29 |
 | 완료(reviewed) | 0 |
-| 윤문(humanized) | 17 |
+| 윤문(humanized) | 22 |
 | 초벌(draft) | 0 |
-| 미착수 | 12 |
+| 미착수 | 7 |
 
 > `humanized` 상태: `04-technical-team-management/02-tech-debt.md`(파일럿),
 > `04-technical-team-management/01-tech-culture.md`,
@@ -87,26 +87,26 @@ Zach Goldberg의 *The Startup CTO's Handbook* 영문 전문을 자연스러운 �
 - [x] `04-technical-team-management/05-developer-experience.md` — Developer Experience (DX) (원문 2348–2404)
   - [x] draft  · [x] humanized  · [ ] reviewed
 
-## Phase 5 — Tech Architecture (1/9 절 humanized)
+## Phase 5 — Tech Architecture (9/9 절 humanized)
 
 - [x] `05-tech-architecture/01-architecture.md` — Architecture (원문 2415–2691)
   - [x] draft  · [x] humanized  · [ ] reviewed
 - [x] `05-tech-architecture/02-data-and-analytics.md` — Data and Analytics (원문 2692–2766)
   - [x] draft  · [x] humanized  · [ ] reviewed
-- [ ] `05-tech-architecture/03-tools.md` — Tools (원문 2767–2816)
-  - [ ] draft  · [ ] humanized  · [ ] reviewed
-- [ ] `05-tech-architecture/04-devops.md` — DevOps (원문 2817–2988)
-  - [ ] draft  · [ ] humanized  · [ ] reviewed
-- [ ] `05-tech-architecture/05-testing.md` — Testing (원문 2989–3122)
-  - [ ] draft  · [ ] humanized  · [ ] reviewed
-- [ ] `05-tech-architecture/06-source-control.md` — Source Control (원문 3123–3228)
-  - [ ] draft  · [ ] humanized  · [ ] reviewed
-- [ ] `05-tech-architecture/07-production-escalations.md` — Production Escalations (원문 3229–3288)
-  - [ ] draft  · [ ] humanized  · [ ] reviewed
-- [ ] `05-tech-architecture/08-it.md` — IT (원문 3289–3304)
-  - [ ] draft  · [ ] humanized  · [ ] reviewed
-- [ ] `05-tech-architecture/09-security-and-compliance.md` — Security and Compliance (원문 3305–3426)
-  - [ ] draft  · [ ] humanized  · [ ] reviewed
+- [x] `05-tech-architecture/03-tools.md` — Tools (원문 2767–2816)
+  - [x] draft  · [x] humanized  · [ ] reviewed
+- [x] `05-tech-architecture/04-devops.md` — DevOps (원문 2817–2988)
+  - [x] draft  · [x] humanized  · [ ] reviewed
+- [x] `05-tech-architecture/05-testing.md` — Testing (원문 2989–3122)
+  - [x] draft  · [x] humanized  · [ ] reviewed
+- [x] `05-tech-architecture/06-source-control.md` — Source Control (원문 3123–3228)
+  - [x] draft  · [x] humanized  · [ ] reviewed
+- [x] `05-tech-architecture/07-production-escalations.md` — Production Escalations (원문 3229–3288)
+  - [x] draft  · [x] humanized  · [ ] reviewed
+- [x] `05-tech-architecture/08-it.md` — IT (원문 3289–3304)
+  - [x] draft  · [x] humanized  · [ ] reviewed
+- [x] `05-tech-architecture/09-security-and-compliance.md` — Security and Compliance (원문 3305–3352)
+  - [x] draft  · [x] humanized  · [ ] reviewed
 
 ## Phase 6 — Conclusion (0/1 절)
 

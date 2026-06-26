@@ -217,7 +217,37 @@
 | read-only replica | 읽기 전용 복제본 | |
 | load shedding | 부하 경감(load shedding) | load balancing(부하 분산)과 구별, 첫 등장 병기 |
 | point-in-time restore | 특정 시점 복구 | |
-| serverless warehouse | 서버리스 웨어하우스 | | |
+| serverless warehouse | 서버리스 웨어하우스 | |
+| code coverage | 코드 커버리지 | 테스트 맥락 |
+| test suite | 테스트 스위트 | |
+| false positive / false negative | 거짓 양성(false positive) / 거짓 음성(false negative) | 첫 등장 병기 |
+| happy path | 정상 경로(happy path) | 첫 등장 병기 |
+| public interface | 공개 인터페이스(public interface) | 첫 등장 병기 |
+| unit / integration / end-to-end test | 단위 테스트 / 통합 테스트 / 엔드투엔드(e2e) 테스트 | 첫 등장 영문 병기 |
+| manual / semi-automated testing | 수동 테스트 / 반자동 테스트 | |
+| visual regression testing | 시각 회귀 테스트(visual regression testing) | 첫 등장 병기 |
+| crowdsourced testing | 크라우드소싱 테스트 | 비전문 수동 테스트 |
+| code contract | 코드 계약(code contract) | API 계약과 동계열 |
+| mock / fixture | 모킹(mock) / 픽스처 | 단위 테스트 맥락 |
+| race condition | 경쟁 조건(race condition) | 첫 등장 병기 |
+| code under test / under evaluation | 테스트 대상 코드 / 평가 대상 코드 | |
+| Quality Assurance (QA) | 품질 보증(QA) | 테스트 팀 맥락 |
+| Selenium / Cypress / Puppeteer | Selenium / Cypress / Puppeteer | e2e 도구, 원문 표기 유지 |
+| HeadSpin / Detox | HeadSpin / Detox | 모바일 테스트 도구, 원문 표기 유지 |
+| TestRail | TestRail | 수동 테스트 관리 도구, 원문 표기 유지 |
+| Jira | Jira | 이슈 트래커, 원문 표기 유지 |
+| Rainforest QA / Pay4Bugs / 99Tests / Testlio / Testim | 원문 표기 유지 | 크라우드소싱·테스트 플랫폼 |
+| source control | 소스 관리 | Git 맥락 |
+| peer review | 동료 리뷰 | 소스 관리 맥락 |
+| pull request / merge request | 풀 리퀘스트 / 머지 리퀘스트 | 호스팅 솔루션별 명칭 |
+| stacked / incremental review | 스택형 / 점진형 리뷰 | |
+| Ship/Show/Ask | Ship, Show, Ask | Rouan Wilsenach, 원문 유지 |
+| trunk-based development | 트렁크 기반 개발(trunk-based development) | 첫 등장 병기 |
+| GitFlow / GitHub Flow | GitFlow / GitHub Flow | 브랜칭 모델명, 원문 표기 유지 |
+| feature branch | 기능 브랜치 | |
+| Continuous Integration (CI) | 지속적 통합(Continuous Integration) | 첫 등장 병기 |
+| context switch / switching | 컨텍스트 스위칭 | 첫 등장 병기 |
+| GitLab / GitHub / Bitbucket | GitLab / GitHub / Bitbucket | Git 호스팅, 원문 표기 유지 |
 
 ## 장·절 제목 대응표 (확정)
 

@@ -28,13 +28,13 @@
 | 405 | [04-technical-team-management/05-developer-experience.md](04-technical-team-management/05-developer-experience.md) | 개발자 경험(DX) / Developer Experience (DX) | 2348–2404 | humanized |
 | 501 | [05-tech-architecture/01-architecture.md](05-tech-architecture/01-architecture.md) | 아키텍처 / Architecture | 2415–2691 | humanized |
 | 502 | [05-tech-architecture/02-data-and-analytics.md](05-tech-architecture/02-data-and-analytics.md) | 데이터와 분석 / Data and Analytics | 2692–2766 | humanized |
-| 503 | [05-tech-architecture/03-tools.md](05-tech-architecture/03-tools.md) | 도구 / Tools | 2767–2816 | 미착수 |
-| 504 | [05-tech-architecture/04-devops.md](05-tech-architecture/04-devops.md) | DevOps | 2817–2988 | 미착수 |
-| 505 | [05-tech-architecture/05-testing.md](05-tech-architecture/05-testing.md) | 테스트 / Testing | 2989–3122 | 미착수 |
-| 506 | [05-tech-architecture/06-source-control.md](05-tech-architecture/06-source-control.md) | 소스 관리 / Source Control | 3123–3228 | 미착수 |
-| 507 | [05-tech-architecture/07-production-escalations.md](05-tech-architecture/07-production-escalations.md) | 장애 대응 / Production Escalations | 3229–3288 | 미착수 |
-| 508 | [05-tech-architecture/08-it.md](05-tech-architecture/08-it.md) | IT | 3289–3304 | 미착수 |
-| 509 | [05-tech-architecture/09-security-and-compliance.md](05-tech-architecture/09-security-and-compliance.md) | 보안과 컴플라이언스 / Security and Compliance | 3305–3353 | 미착수 |
+| 503 | [05-tech-architecture/03-tools.md](05-tech-architecture/03-tools.md) | 도구 / Tools | 2767–2816 | humanized |
+| 504 | [05-tech-architecture/04-devops.md](05-tech-architecture/04-devops.md) | DevOps | 2817–2988 | humanized |
+| 505 | [05-tech-architecture/05-testing.md](05-tech-architecture/05-testing.md) | 테스트 / Testing | 2989–3122 | humanized |
+| 506 | [05-tech-architecture/06-source-control.md](05-tech-architecture/06-source-control.md) | 소스 관리 / Source Control | 3123–3228 | humanized |
+| 507 | [05-tech-architecture/07-production-escalations.md](05-tech-architecture/07-production-escalations.md) | 장애 대응 / Production Escalations | 3229–3288 | humanized |
+| 508 | [05-tech-architecture/08-it.md](05-tech-architecture/08-it.md) | IT | 3289–3304 | humanized |
+| 509 | [05-tech-architecture/09-security-and-compliance.md](05-tech-architecture/09-security-and-compliance.md) | 보안과 컴플라이언스 / Security and Compliance | 3305–3352 | humanized |
 | 600 | [06-conclusion.md](06-conclusion.md) | 맺음말: 성공을 측정하기 / Conclusion: Measuring Success | 3354–3378 | 미착수 |
 | 700 | [07-references.md](07-references.md) | 참고문헌 / Book References | 3379–3506 | 미착수 |
 | 800 | [08-glossary.md](08-glossary.md) | 용어집 / Glossary | 3507–3561 | 미착수 |

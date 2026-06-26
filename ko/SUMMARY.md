@@ -19,7 +19,7 @@
 | 303 | [03-people-and-culture/03-onboarding.md](03-people-and-culture/03-onboarding.md) | 온보딩 / Onboarding | 1238–1369 | humanized |
 | 304 | [03-people-and-culture/04-performance-management.md](03-people-and-culture/04-performance-management.md) | 성과 관리 / Performance Management | 1370–1571 | humanized |
 | 305 | [03-people-and-culture/05-team-makeup.md](03-people-and-culture/05-team-makeup.md) | 팀 구성 / Team Makeup | 1572–1695 | humanized |
-| 306 | [03-people-and-culture/06-leadership-responsibilities.md](03-people-and-culture/06-leadership-responsibilities.md) | 리더의 책임 / Leadership Responsibilities | 1696–1855 | 미착수 |
+| 306 | [03-people-and-culture/06-leadership-responsibilities.md](03-people-and-culture/06-leadership-responsibilities.md) | 리더의 책임 / Leadership Responsibilities | 1696–1855 | humanized |
 | 307 | [03-people-and-culture/07-cto-types.md](03-people-and-culture/07-cto-types.md) | 당신은 어떤 유형의 스타트업 CTO인가? / Which Type of Startup CTO Are You? | 1856–1917 | humanized |
 | 401 | [04-technical-team-management/01-tech-culture.md](04-technical-team-management/01-tech-culture.md) | 기술 문화와 전반적 철학 / Tech Culture and General Philosophy | 1924–2017 | humanized |
 | 402 | [04-technical-team-management/02-tech-debt.md](04-technical-team-management/02-tech-debt.md) | 기술 부채 / Tech Debt | 2018–2110 | humanized |

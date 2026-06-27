@@ -36,7 +36,7 @@
 | 508 | [05-tech-architecture/08-it.md](05-tech-architecture/08-it.md) | IT | 3289–3304 | humanized |
 | 509 | [05-tech-architecture/09-security-and-compliance.md](05-tech-architecture/09-security-and-compliance.md) | 보안과 컴플라이언스 / Security and Compliance | 3305–3352 | humanized |
 | 600 | [06-conclusion.md](06-conclusion.md) | 맺음말: 성공을 측정하기 / Conclusion: Measuring Success | 3354–3378 | 미착수 |
-| 700 | [07-references.md](07-references.md) | 참고문헌 / Book References | 3379–3506 | 미착수 |
+| 700 | [07-references.md](07-references.md) | 참고문헌 / Book References | 3379–3506 | humanized |
 | 800 | [08-glossary.md](08-glossary.md) | 용어집 / Glossary | 3507–3561 | 미착수 |
 | 900 | [09-about.md](09-about.md) | 저자·출판사 소개 / About | 3562–3571 | 미착수 |
 

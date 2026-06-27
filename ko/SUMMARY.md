@@ -35,10 +35,10 @@
 | 507 | [05-tech-architecture/07-production-escalations.md](05-tech-architecture/07-production-escalations.md) | 장애 대응 / Production Escalations | 3229–3288 | humanized |
 | 508 | [05-tech-architecture/08-it.md](05-tech-architecture/08-it.md) | IT | 3289–3304 | humanized |
 | 509 | [05-tech-architecture/09-security-and-compliance.md](05-tech-architecture/09-security-and-compliance.md) | 보안과 컴플라이언스 / Security and Compliance | 3305–3352 | humanized |
-| 600 | [06-conclusion.md](06-conclusion.md) | 맺음말: 성공을 측정하기 / Conclusion: Measuring Success | 3354–3378 | 미착수 |
+| 600 | [06-conclusion.md](06-conclusion.md) | 맺음말: 성공을 가늠하기 / Conclusion: Measuring Success | 3354–3378 | humanized |
 | 700 | [07-references.md](07-references.md) | 참고문헌 / Book References | 3379–3506 | humanized |
 | 800 | [08-glossary.md](08-glossary.md) | 용어집 / Glossary | 3507–3561 | 미착수 |
-| 900 | [09-about.md](09-about.md) | 저자·출판사 소개 / About | 3562–3571 | 미착수 |
+| 900 | [09-about.md](09-about.md) | 저자·출판사 소개 / About | 3562–3571 | humanized |
 
 > **참고**: 위 `source_lines`는 원문 `#`/`##` 헤딩 위치를 기준으로 산정했다. 각 절 착수 시
 > 실제 경계를 재확인하고, 해당 파일 frontmatter의 `source_lines`와 본 표를 함께 갱신한다.

@@ -22,6 +22,7 @@ async function initSearch() {
     if (typeof PagefindUI !== 'function') throw new Error('PagefindUI global not found');
     new PagefindUI({
       element: '#search-host',
+      bundlePath: `${base}/pagefind/`,
       showSubResults: true,
       showImages: false,
       pageSize: 6,

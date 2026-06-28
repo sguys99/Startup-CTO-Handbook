@@ -547,6 +547,8 @@ html[data-theme="dark"] .theme-toggle .moon {
   font-size: 0.72em;
   color: var(--ink-mute);
   padding-top: 0.2em;
+  flex: 0 0 auto;
+  white-space: nowrap;
 }
 .chapter-card li a:hover {
   background: var(--accent-soft);

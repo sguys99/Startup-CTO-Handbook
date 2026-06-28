@@ -12,3 +12,8 @@ Thumbs.db
 # 로그 / 임시
 *.log
 *.tmp
+
+# 웹 사이트 빌드
+dist/
+site/node_modules/
+node_modules/

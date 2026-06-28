@@ -7,6 +7,8 @@
 # The Book
 You can view the latest content of the book in markdown [here](StartupCTOHandbook.md)
 
+📖 **Korean web e-book: https://sguys99.github.io/Startup-CTO-Handbook/** — a readable web edition of the Korean translation with table of contents, full-text search, and dark mode.
+
 You can buy the book on [Amazon](https://www.amazon.com/dp/1955811563) or [Audible](https://www.audible.com/pd/B0CXB5YZL2)
 
 (Coming Soon) Link of the latest version of the markdown rendered to PDF

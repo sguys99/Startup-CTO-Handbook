@@ -7,6 +7,8 @@
 # 책 소개
 이 저장소는 책의 최신 내용을 마크다운으로 담았습니다. 영문 원문은 [여기](StartupCTOHandbook.md)에서 볼 수 있습니다.
 
+📖 **한국어 웹 전자책: https://sguys99.github.io/Startup-CTO-Handbook/** — 목차·검색·다크모드를 갖춘 읽기 좋은 웹 버전으로 보실 수 있습니다.
+
 한국어 번역은 현재 진행 중이며, 번역 산출물은 [`ko/`](ko/) 디렉터리에 챕터별로 쌓이고 있습니다.
 
 책은 [Amazon](https://www.amazon.com/dp/1955811563)이나 [Audible](https://www.audible.com/pd/B0CXB5YZL2)에서 구매할 수 있습니다.

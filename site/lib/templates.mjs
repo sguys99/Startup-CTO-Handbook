@@ -79,8 +79,8 @@ function footer(ctx) {
       </div>
     </div>
     <div class="footer-bottom">
-      <span>© Zach Goldberg · 한국어 번역본은 원저작권과 라이선스(<a href="${ctx.repoUrl}/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">LICENSE</a>)를 따릅니다.</span>
-      <span>되팔지 않고 출처를 표기하는 한 자유롭게 복사·수정·재배포할 수 있습니다.</span>
+      <span>© Zach Goldberg · 한국어 번역본은 원저작권과 라이선스(<a href="${ctx.repoUrl}/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">LICENSE</a>)를 따릅니다. · 번역/배포 Kwang Myung Yu</span>
+      <span>상업적 목적으로 사용하지 않고 출처를 표기하는 한 자유롭게 복사·수정·재배포할 수 있습니다.</span>
     </div>
   </div>
 </footer>`;
@@ -168,6 +168,7 @@ export function homePage({ ctx, book }) {
       <h1 class="hero-title reveal reveal-2">${esc(book.title)}<span class="en">${esc(book.title_en)}</span></h1>
       <p class="hero-sub reveal reveal-3">${esc(book.subtitle)} — 채용과 문화, 기술 부채와 아키텍처, 데브옵스와 보안까지, 스타트업 CTO가 마주하는 현실적인 의사결정을 한 권에 담았습니다.</p>
       <p class="hero-meta reveal reveal-3">지은이 · <strong>${esc(book.author)}</strong></p>
+      <p class="hero-meta reveal reveal-3">번역/배포 · <strong>KMYU</strong></p>
       <div class="hero-cta reveal reveal-4">
         <a class="btn btn-primary" href="${firstUrl}">${ICON.arrowRight}<span>처음부터 읽기</span></a>
         <a class="btn btn-ghost" href="${ctx.repoUrl}" target="_blank" rel="noopener noreferrer">${ICON.github}<span>GitHub</span></a>
@@ -183,7 +184,6 @@ export function homePage({ ctx, book }) {
   <div class="wrap">
     <div class="section-head">
       <h2>목차</h2>
-      <span class="count">전 ${ctx.sections.length}개 절 · ${groups.length}개 장</span>
     </div>
     <div class="card-grid">
       ${cards}
